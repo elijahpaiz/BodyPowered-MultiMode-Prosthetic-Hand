@@ -36,4 +36,6 @@ STEP files may be included for cross-platform compatibility.
 
 ## Organization
 
-All parts for the mechanism are all integrated within the single .step file titled 'Shifting Gearbox V12'.
+All parts for the mechanism are all integrated within the single .step file titled 'Shifting Gearbox V12'. 
+
+All parts for the prosthetic hand can be found within their respective folders.
